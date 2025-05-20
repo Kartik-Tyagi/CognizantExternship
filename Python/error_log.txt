@@ -1,0 +1,5 @@
+[2025-05-20 11:27:22] :- When prompting user to choose a menu option: ValueError (not entered an integer)
+[2025-05-20 11:27:24] :- When prompting user to choose a menu option: ValueError (Entered an integer but not between 1 and 5)
+[2025-05-20 11:27:33] :- When prompting user to enter the first number: ValueError (not entered an integer)
+[2025-05-20 11:27:39] :- When prompting user to enter the second number: ValueError (not entered an integer)
+[2025-05-20 11:27:41] :- When prompting user to enter the second number: ZeroDivisionError (Entered a 0 when user wishes to divide)
